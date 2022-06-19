@@ -3,7 +3,7 @@
 #include <cmath>
 using namespace std;
 
-
+int git;
 int two(vector<vector<int>> two_vc)
 {
 	int de_two = (two_vc[0][0] * two_vc[1][1]) - (two_vc[0][1] * two_vc[1][0]);
